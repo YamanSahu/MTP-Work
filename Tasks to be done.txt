@@ -1,0 +1,5 @@
+1. Model making
+    (i).    Descision tree
+    (ii).   Random Forest
+    (iii).  KNN 
+    (iv).   ANN
