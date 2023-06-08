@@ -1,5 +1,4 @@
-1. Model making
-    (i).    Descision tree
-    (ii).   Random Forest
-    (iii).  KNN 
-    (iv).   ANN
+
+2. Individual class accuracy
+3. combination of two data set
+4. train test split for different ration

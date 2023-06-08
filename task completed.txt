@@ -1,2 +1,7 @@
 1. Visual annotation
 2. Searching methods...
+1. Model making
+    (i).    Descision tree
+    (ii).   Random Forest
+    (iii).  KNN 
+    (iv).   ANN
