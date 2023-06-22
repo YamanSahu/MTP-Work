@@ -1,6 +1,2 @@
-1. visual annotation of another data set
-2. Individual class accuracy
-3. combination of two data set
-4. train test split for different ration
+
 5. Add more model.
-6. Tabular form
