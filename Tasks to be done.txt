@@ -1,2 +1,11 @@
 
 5. Add more model.
+
+
+how many input labels in 
+
+
+Individual for training and testing
+
+
+more data set
