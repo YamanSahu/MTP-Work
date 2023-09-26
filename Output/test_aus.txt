@@ -7,4 +7,4 @@ AdaBoost              70.3755    71.9626
 Gaussian NB           59.4344    74.5794
 SVM                   71.8127    76.6355
 Gradient Boosting     84.6546    66.5421
-MLP                   75.9852    28.4112
+MLP                   75.9852    28.4112 

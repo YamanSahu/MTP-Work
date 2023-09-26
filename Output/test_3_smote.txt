@@ -1,0 +1,10 @@
+Model_name           training    testing
+-----------------  ----------  ---------
+Descison tree        100         45.0811
+Random Forest        100         47.9716
+KNN                   92.3209    42.4442
+AdaBoost              67.94      43.6105
+Gaussian NB           63.8622    41.5314
+SVM                   69.7055    54.1075
+Gradient Boosting     79.8141    39.6552
+MLP                   75.0488    43.002
