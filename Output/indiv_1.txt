@@ -1,0 +1,14 @@
+Model                Left Train Accuracy    Right Train Accuracy    No Turn Accuracy    Left Test Accuracy    Right Test Accuracy    No Test Accuracy
+-----------------  ---------------------  ----------------------  ------------------  --------------------  ---------------------  ------------------
+Descison tree                    92.4603                 87.2396             96.8696               93.6508                92.7835             94.4444
+Random Forest                    90.873                  90.1042             98.2609               93.6508                91.7526             98.2639
+KNN                              71.4286                 52.8646             92.6087               79.3651                53.6082             91.3194
+AdaBoost                         59.5238                 41.4062             85.3913               55.5556                48.4536             89.5833
+Gaussian NB                      65.0794                 17.1875             85.8261               63.4921                26.8041             86.4583
+SVM                              47.619                  17.1875             95.7391               42.8571                31.9588             97.5694
+Gradient Boosting                75                      67.1875             95.8261               84.127                 77.3196             96.5278
+MLP                              64.6825                 45.3125             86.6087               65.0794                54.6392             89.2361
+For training data
+left: 252 right: 384 no_turn: 1150
+For testing data
+left: 63 right: 97 no_turn: 288
