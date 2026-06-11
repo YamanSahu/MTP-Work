@@ -1,0 +1,10 @@
+A hardware security engineer is conducting a side-channel analysis of an AES hardware implementation. Using an oscilloscope, he has collected power traces for that AES implementation with a secret 128-bit key K. The traces are stored in traces_AES_2026.csv. The first column is the plaintext, the second column is the ciphertext, and the remaining columns indicate the sample points.
+The security engineer seeks your help to mount a Correlation Power Analysis (CPA) attack on these traces. The objective is to recover the 128-bit AES master key (K) using Correlation Power Analysis (CPA) attack.
+
+
+Solution to be submitted:
+    a) Extracted Key: Flag{Key} – Key to be submitted in hex format.     [25 points]
+    b) Walkthrough document: You need to prepare a document with the detailed procedure of the CPA attack and submit the code. Everyone has to show the steps, how each byte of AES key ’K’ of 16 bytes, is recovered. Please make a zip file with team name.  [25 points]
+Files
+
+    traces_AES_2026.csv
